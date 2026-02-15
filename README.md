@@ -2,7 +2,7 @@
 <h1>Link:https://reactdemoform.netlify.app/
 <h2>ผมทำโปรเจค React Demo ครับ <br>
 
-<h2>package ที่ต้อง download
+<h2>package ที่ต้อง download ***โหลดใน cmd
 <li>npm i</li>
 <li>npm create vite@latest เลือก React</li>
 <li>npm install tailwindcss @tailwindcss/vite</li>
